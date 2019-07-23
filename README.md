@@ -7,7 +7,7 @@ This application have 5 commands:
 1. add: Manually upload a timetable to database
     nodejs app.js add
     
-2. addJSON: Upload a timetable to database as JSON(JavaScript Object Notation
+2. addJSON: Upload a timetable to database as JSON(JavaScript Object Notation)
     node app.js addJSON
     
 3. remove: Remove a timetable from the database
